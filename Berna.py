@@ -1,3 +1,7 @@
+#NAME:NAMULYOWA BERNA
+#REGISTRATION NUMBER:16/U/9555/EVE
+#STUDENT NUMBER:216016352
+#COMPUTER ENGINEERING YEAR 1
 import calendar 
 from datetime import datetime
 now = datetime.now()
